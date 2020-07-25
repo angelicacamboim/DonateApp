@@ -1,0 +1,24 @@
+{
+  "name": "donateapp",
+  "version": "1.0.0",
+  "description": "MaratonaDEV 3.0",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelicacamboim/DonateApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelicacamboim/DonateApp/issues"
+  },
+  "homepage": "https://github.com/angelicacamboim/DonateApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
