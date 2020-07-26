@@ -1,5 +1,6 @@
 //npm i nodemon vai monitar a app inteira
 //npm i nunjucks - template de aplicações
+//npm i pg - conexão com BD
 //configurando o servidor
 const express = require("express")
 const server = express() //funcionalidade 
